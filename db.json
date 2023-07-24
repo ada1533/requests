@@ -1,0 +1,129 @@
+{
+  "characters": [
+    {
+      "title": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+      "name": "Rick Sanchez",
+      "id": 1
+    },
+    {
+      "title": "https://rickandmortyapi.com/api/character/avatar/3.jpeg",
+      "name": "Summer Smith",
+      "id": 2
+    },
+    {
+      "title": "https://rickandmortyapi.com/api/character/avatar/2.jpeg",
+      "name": "Morty Smith",
+      "id": 3
+    },
+    {
+      "title": "https://rickandmortyapi.com/api/character/avatar/6.jpeg",
+      "name": "Abadango Cluster Princess",
+      "id": 4
+    },
+    {
+      "title": "https://rickandmortyapi.com/api/character/avatar/8.jpeg",
+      "name": "Adjudicator Rick",
+      "id": 5
+    },
+    {
+      "title": "https://rickandmortyapi.com/api/character/avatar/9.jpeg",
+      "name": "Agency Director",
+      "id": 6
+    },
+    {
+      "title": "https://rickandmortyapi.com/api/character/avatar/10.jpeg",
+      "name": "Alan Rails",
+      "id": 7
+    },
+    {
+      "title": "https://rickandmortyapi.com/api/character/avatar/11.jpeg",
+      "name": "Albert Einstein",
+      "id": 8
+    },
+    {
+      "title": "https://rickandmortyapi.com/api/character/avatar/13.jpeg",
+      "name": "Alien Googah",
+      "id": 9
+    },
+    {
+      "title": "https://rickandmortyapi.com/api/character/avatar/7.jpeg",
+      "name": "Abradolf Lincler",
+      "id": 10
+    },
+    {
+      "title": "https://rickandmortyapi.com/api/character/avatar/12.jpeg",
+      "name": "Alexander",
+      "id": 11
+    },
+    {
+      "title": "https://rickandmortyapi.com/api/character/avatar/5.jpeg",
+      "name": "Jerry Smith",
+      "id": 12
+    },
+    {
+      "title": "https://rickandmortyapi.com/api/character/avatar/4.jpeg",
+      "name": "Beth Smith",
+      "id": 13
+    },
+    {
+      "title": "https://rickandmortyapi.com/api/character/avatar/2.jpeg",
+      "name": "Morty Smith",
+      "id": 14
+    },
+    {
+      "title": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+      "name": "Rick Sanchez",
+      "id": 15
+    },
+    {
+      "title": "https://rickandmortyapi.com/api/character/avatar/3.jpeg",
+      "name": "Summer Smith",
+      "id": 16
+    },
+    {
+      "title": "https://rickandmortyapi.com/api/character/avatar/7.jpeg",
+      "name": "Abradolf Lincler",
+      "id": 17
+    },
+    {
+      "title": "https://rickandmortyapi.com/api/character/avatar/6.jpeg",
+      "name": "Abadango Cluster Princess",
+      "id": 18
+    },
+    {
+      "title": "https://rickandmortyapi.com/api/character/avatar/5.jpeg",
+      "name": "Jerry Smith",
+      "id": 19
+    },
+    {
+      "title": "https://rickandmortyapi.com/api/character/avatar/4.jpeg",
+      "name": "Beth Smith",
+      "id": 20
+    },
+    {
+      "title": "https://rickandmortyapi.com/api/character/avatar/8.jpeg",
+      "name": "Adjudicator Rick",
+      "id": 21
+    },
+    {
+      "title": "https://rickandmortyapi.com/api/character/avatar/11.jpeg",
+      "name": "Albert Einstein",
+      "id": 22
+    },
+    {
+      "title": "https://rickandmortyapi.com/api/character/avatar/9.jpeg",
+      "name": "Agency Director",
+      "id": 23
+    },
+    {
+      "title": "https://rickandmortyapi.com/api/character/avatar/10.jpeg",
+      "name": "Alan Rails",
+      "id": 24
+    },
+    {
+      "title": "https://rickandmortyapi.com/api/character/avatar/15.jpeg",
+      "name": "Alien Rick",
+      "id": 25
+    }
+  ]
+}
